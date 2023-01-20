@@ -2,8 +2,10 @@
 title: "CanadianLIS"
 format: html
 editor: visual
+html:
+  smooth-scroll: true
 ---
 
-<iframe height="200%" width="200%" frameborder="no" src="https://pnriddle.shinyapps.io/Canadian_LIS_Explorer/">
+<iframe height="1080" width="1920" frameborder="no" src="https://pnriddle.shinyapps.io/Canadian_LIS_Explorer/">
 
 </iframe>
