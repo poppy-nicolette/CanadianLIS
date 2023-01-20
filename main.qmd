@@ -5,7 +5,9 @@ editor: visual
 html:
   smooth-scroll: true
 ---
+```{r}
+#| column: page
 
-<iframe height="1080" width="1920" frameborder="no" src="https://pnriddle.shinyapps.io/Canadian_LIS_Explorer/">
+<iframe height="800" width="1080" frameborder="no" src="https://pnriddle.shinyapps.io/Canadian_LIS_Explorer/">
 
 </iframe>
